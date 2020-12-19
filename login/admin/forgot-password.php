@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-    <!-- Mirrored from dreamguys.co.in/preclinic/template/forgot-password.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Nov 2019 07:32:43 GMT -->
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
