@@ -13,7 +13,7 @@
                     <div class="cr-pro">
                         <div class="home-video-right-adjust" style="text-align:left; font-size: 14px; padding-left: 40px;">
                             <div>
-                                <div>gatchara.com is one of the leading and most trusted matrimony website.We are providing the most secure, trusted and reliable platform for all the members to find their preferred life partner.</div>
+                                <div>BrideBox is one of the leading and most trusted matrimony website.We are providing the most secure, trusted and reliable platform for all the members to find their preferred life partner.</div>
                                 <div style="padding-top: 10px;">Create your profile now to start a happy journey.</div>
                             </div>
                             <div class="watch-video-create-your-profile-btn" style="padding: 10px; padding-left: 0; padding-top:40px;">

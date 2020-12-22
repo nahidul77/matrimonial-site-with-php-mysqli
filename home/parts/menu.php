@@ -19,7 +19,7 @@
                             HELP
                         </div>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="contact.html">Need Help?</a>
+                            <a class="dropdown-item" href="contact.php">Need Help?</a>
                             <li><a href="contact.php">Write to us</a></li>
                         </div>
                     </div>
@@ -35,9 +35,9 @@
         <nav class="navbar navbar-expand-lg">
             <a class="navbar-brand" href="#">
                 <div class="logo">
-                    <a href = "http://gatchara.com/">
+                    <a href = "https://bridebox.nahidul.me/">
                         <img src="images/heart.png" height="40" width="40px"  alt="logo" class="img-fluid">
-                        <b style="color: white">GATCHARA</b>
+                        <b style="color: white">BrideBox</b>
                     </a>
                 </div>
             </a>
@@ -49,7 +49,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ">
                     <li class="nav-item active">
-                        <a class="nav-link" href="http://gatchara.com/">
+                        <a class="nav-link" href="https://bridebox.nahidul.me/">
                             HOME 
                         </a>
                     </li>

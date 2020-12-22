@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="css/pogo-slider.min.css">
 <link rel="stylesheet" href="css/style.css">
 <link href="https://fonts.googleapis.com/css?family=Titillium+Web&display=swap" rel="stylesheet">
-<title>Gatchara || Marriage</title>
+<title>BrideBox</title>
 <link rel="icon" href="images/heart.png" />
 <style>
     html {

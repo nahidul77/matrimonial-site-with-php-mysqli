@@ -87,19 +87,19 @@ if(isset($_POST['send'])){
                                         <li><i class="fas fa-envelope-open"></i></li>
                                     </ul>
                                     <h4>Mail Address</h4>
-                                    <a href="#">Info@gatchara.com</a><br><br>
+                                    <a href="#">Info@bridebox.com</a><br><br>
                                     <ul>
                                         <li><i class="fas fa-phone-volume"></i></li>
                                     </ul>
                                     <h4>Phone Number</h4>
-                                    <p>+393205335380</p>
-                                    <p>+41779916097</p>
-                                    <p>+8801400250091<p><br><br>
+                                    <p>+393205334443</p>
+                                    <p>+417799160334</p>
+                                    <p>+8801303040793<p><br><br>
                                     <ul>
                                         <li><i class="fas fa-address-book"></i></li>
                                     </ul>
                                     <h4>Dhaka Office</h4>
-                                    <span> 15/A West,  </span>
+                                    <span> 28/A West,  </span>
                                     <p>Dhanmondi Dhaka,1207,Bangladesh </p><br>
                                     <br>
                                 </div>
