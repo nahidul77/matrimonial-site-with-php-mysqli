@@ -3,7 +3,7 @@
 
 <div class="header-left">
     <a href="index.php" class="logo">
-<img src="assets/img/heart.png" width="35" height="35" alt=""> <span>Gatchara</span>
+<img src="assets/img/heart.png" width="35" height="35" alt=""> <span>BrideBox</span>
     </a>
 </div>
 <a id="toggle_btn" href="javascript:void(0);"><i class="fa fa-bars"></i></a>

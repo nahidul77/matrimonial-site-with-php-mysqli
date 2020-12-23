@@ -1,4 +1,4 @@
-<title>Gatchara || Marriage</title>
+<title>BrideBox || Marriage</title>
 
 <link rel="shortcut icon" type="image/x-icon" href="assets/img/heart.png">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
