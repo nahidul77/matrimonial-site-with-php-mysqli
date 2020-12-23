@@ -19,7 +19,7 @@ if (isset($_POST['login'])) {
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-        <title>Gatchara || Marriage</title>
+        <title>BrideBox || Marriage</title>
         <?php include '../parts/links.php'; ?>
         <style>
             body{
@@ -36,7 +36,7 @@ if (isset($_POST['login'])) {
         <div class="main-wrapper account-wrapper">
             <div class="row">
                 <div class="col-sm-4">
-                    <a href="../../home/"><h2 style="text-align: center;font-family: 'Baumans', cursive;"><i class="fa fa-heart"></i><u>Gatchara</u><i class="fa fa-heart"></i></h2></a>
+                    <a href="../../home/"><h2 style="text-align: center;font-family: 'Baumans', cursive;"><i class="fa fa-heart"></i><u>BrideBox</u><i class="fa fa-heart"></i></h2></a>
                 </div>
                 <div class="col-sm-4"></div>
                 <div class="col-sm-4">
