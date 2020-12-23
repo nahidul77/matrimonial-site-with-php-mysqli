@@ -29,7 +29,7 @@ if (isset($_POST['save'])) {
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-        <title>Matrimony</title>
+        <title>BrideBox</title>
         <style>
             html {
                 overflow: scroll;
@@ -81,9 +81,9 @@ if (isset($_POST['save'])) {
                     <div class="row">
                         <div class="col-sm-12">
                             <center>
-                                <h2 style="text-align: center;font-family: 'Baumans', cursive;color:blue"><i class="fa fa-heart"></i><u>Gatchara</u><i class="fa fa-heart"></i></h2>
+                                <h2 style="text-align: center;font-family: 'Baumans', cursive;color:blue"><i class="fa fa-heart"></i><u>BrideBox</u><i class="fa fa-heart"></i></h2>
                                 <br>
-                                <h4 ><a href="http://gatchara.com" style="color:black"><i class="fa fa-home"></i> HOME</a> || <a href="../../login/client/" style="color:black"><i class="fa fa-sign-in"></i> LOGIN</a></h4>
+                                <h4 ><a href="https://bridebox.nahidul.com" style="color:black"><i class="fa fa-home"></i> HOME</a> || <a href="../../login/client/" style="color:black"><i class="fa fa-sign-in"></i> LOGIN</a></h4>
                                 <br>
                                 <h4 class="page-title" style="margin-left: 20px;color: wheat"><u>REGISTRATION FORM</u></h4>
                                 <h3 style="text-align: center;">

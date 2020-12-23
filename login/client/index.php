@@ -19,7 +19,7 @@ if (isset($_POST['login'])) {
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-        <title>Ghatchara || Marriage</title>
+        <title>BrideBox || Marriage</title>
         <?php include '../parts/links.php'; ?>
         <style>
             i{ color:red; }
@@ -30,11 +30,11 @@ if (isset($_POST['login'])) {
         <div class="main-wrapper account-wrapper">
             <div class="row">
                 <div class="col-sm-4">
-                    <a href="http://gatchara.com"><h2 style="text-align: center;font-family: 'Baumans', cursive;"><i class="fa fa-heart"></i><u>Gatchara</u><i class="fa fa-heart"></i></h2></a>
+                    <a href="https://bridebox.nahidul.me"><h2 style="text-align: center;font-family: 'Baumans', cursive;"><i class="fa fa-heart"></i><u>BrideBox</u><i class="fa fa-heart"></i></h2></a>
                 </div>
                 <div class="col-sm-4"></div>
                 <div class="col-sm-4">
-                    <h3 style="text-align: center"><i class="fa fa-arrow-left"></i></i><a href="http://gatchara.com"  class="active">Back To Home</a></h3>
+                    <h3 style="text-align: center"><i class="fa fa-arrow-left"></i></i><a href="https://bridebox.nahidul.me"  class="active">Back To Home</a></h3>
                 </div>
             </div>
             <div class="account-page">
@@ -46,11 +46,11 @@ if (isset($_POST['login'])) {
                             </div>
                             <div class="form-group">
                                 <label>Username</label>
-                                <input type="text" name="username" class="form-control" placeholder="Enter username" autocomplete="nope" required>
+                                <input type="text" name="username" class="form-control" placeholder="Enter username" required>
                             </div>
                             <div class="form-group">
                                 <label>Password</label>
-                                <input type="password" name="password" class="form-control" placeholder="Enter password" autocomplete="new-password" required>
+                                <input type="password" name="password" class="form-control" placeholder="Enter password" required>
                             </div>
                             <div class="form-group text-right">
                                 <a href="forgot-password.php">Forgot your password?</a><br>
