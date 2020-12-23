@@ -10,7 +10,7 @@
                         <li class="footer-box"><a href=""><i class="fab fa-skype"></i></a></li>
                     </ul>
                     <div class="clr-fix"></div>
-                    <p class="text-center">© Copyright <?php echo date("Y"); ?>. All Rights Reserved | Designed by Nahidul Islam &nbsp;<a href="../login/admin/"><i class="fa fa-cog"></i></a></p>
+                    <p class="text-center">© Copyright <?php echo date("Y"); ?>. All Rights Reserved | Developed by Nahidul Islam &nbsp;<a href="../login/admin/"><i class="fa fa-cog"></i></a></p>
                 </div>
             </div>
         </div>
