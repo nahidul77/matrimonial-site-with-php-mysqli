@@ -153,10 +153,6 @@
     .content{
         font-family: 'Titillium Web', sans-serif;
     }
-
-
-
-
 </style>
 
 
