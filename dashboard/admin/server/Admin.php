@@ -52,7 +52,7 @@ class Admin {
         }
     }
 
-    //clients section
+    
 
     public function ViewAllClients() {
 
